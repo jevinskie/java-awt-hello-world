@@ -1,0 +1,11 @@
+*.class
+*.dylib
+/awt/reports/
+/awt/sources/
+/cli/sources/
+/cli/reports/
+/cli/helloworldcli
+/cli/helloworldcli.debug
+/awt/helloworldawt
+/awt/helloworldawt.debug
+gdb-debughelpers.py
