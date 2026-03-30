@@ -1,4 +1,5 @@
-import java.awt.*;
+import java.awt.Frame;
+import java.awt.Label;
 
 public class HelloWorldAWT {
     public static void main(String[] args) {
